@@ -15,3 +15,4 @@ char number;
 number = letters[i];
 a = number-'0';
 
+# space
